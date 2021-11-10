@@ -18,7 +18,7 @@
         <p style="text-align:center;">
             <img src="{% static 'project/img/junimo5.png' %}" style="width:200px; height:200px;">
         </p>
-        <p>edit</p>
+        <p>Hello World</p>
         <!--Homebuttons-->
 		<div class="container">
            <br>
